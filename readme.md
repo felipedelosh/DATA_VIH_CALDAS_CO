@@ -11,13 +11,14 @@ Using Pandas + Python create a query to insert the data.
 
 ## :hammer:Funtions:
 
-- `Function 1`: Convert data .csv to sql insert.<br>
-- `Function 2`: print Data (select * from sql).<br>
+- `Function 1`: Convert data .csv to sql insert (main.py).<br>
+- `Function 2`: insert and print Data (insert_and_view.py).<br>
 
 
 ## :play_or_pause_button:How to execute a project
 
-Double click in main.py
+- main.py to create SQL query.
+- insert_and_view to insert data.
 
 ## :hammer_and_wrench:Tech.
 
